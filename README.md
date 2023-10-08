@@ -32,14 +32,14 @@ Features
     Calculates monthly payments for a loan given the principal amount and loan duration.
     Demonstrates how to use the LoanAccount class to calculate monthly payments for different loan durations and interest rates.
 
-How to use
+# How to use
 
 To use the program, simply compile and run the LoanAccount class. The program will then display a table showing the monthly payments for two different loan amounts (5000 and 31000 dollars) for different loan durations (3, 5, and 6 years) at two different interest rates (1% and 5%).
 
 Example usage
-
-$ javac LoanAccount.java
-$ java LoanAccount
+  
+    $ javac LoanAccount.java
+    $ java LoanAccount
 
 # Output:
 
