@@ -36,11 +36,6 @@ Features
 
 To use the program, simply compile and run the LoanAccount class. The program will then display a table showing the monthly payments for two different loan amounts (5000 and 31000 dollars) for different loan durations (3, 5, and 6 years) at two different interest rates (1% and 5%).
 
-Example usage
-  
-    $ javac LoanAccount.java
-    $ java LoanAccount
-
 # Output:
 
     Monthly payments for Loan 1 of $5000.00 and Loan 2 of $31,000.00 for 3 year, 5 year, and 6 year loans at 1% interest rate
