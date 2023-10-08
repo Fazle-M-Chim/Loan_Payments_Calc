@@ -56,8 +56,10 @@ $ java LoanAccount
 # Installation
 
 To install and run the program, you will need to have the Java Development Kit (JDK) installed on your computer. Once you have the JDK installed, you can compile the program using the following command:
+
     javac LoanAccount.java
 
 Once the program has been compiled, you can run it using the following command:
+
     java LoanAccount
 
