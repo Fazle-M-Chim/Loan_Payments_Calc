@@ -60,6 +60,6 @@ To install and run the program, you will need to have the Java Development Kit (
   javac LoanAccount.java
 
 Once the program has been compiled, you can run it using the following command:
-
+  
   java LoanAccount
 
