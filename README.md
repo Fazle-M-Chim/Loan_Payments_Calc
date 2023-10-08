@@ -6,10 +6,10 @@ This program implements a LoanAccount class to calculate monthly payments on loa
 
 # Features
 
-1. Implements a LoanAccount class to represent a loan account and calculate monthly payments.
-2. Allows the user to set the annual interest rate for all LoanAccount objects.
-3. Calculates monthly payments for a loan given the principal amount and loan duration.
-4. Demonstrates how to use the LoanAccount class to calculate monthly payments for different loan durations and interest rates.
+* Implements a LoanAccount class to represent a loan account and calculate monthly payments.
+* Allows the user to set the annual interest rate for all LoanAccount objects.
+* Calculates monthly payments for a loan given the principal amount and loan duration.
+* Demonstrates how to use the LoanAccount class to calculate monthly payments for different loan durations and interest rates.
 
 # How to use
 
